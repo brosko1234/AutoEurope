@@ -1,10 +1,7 @@
-body {
-    background-image: None;
-}
 
 aside {
-    float: left;
 
+    float: left;
     width: 20%;
     padding: 2.5%;
     height: 100vh;
@@ -12,27 +9,8 @@ aside {
     border-right: 5px solid #000000;
 }
 
-bside {
-    float: right;
-    width: 80%;
-    height: 100vh;
-}
 
-div.background {
-    position: fixed;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-}
 
-img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: auto;
-    min-width: 50%;
-    min-height: 50%;
-}
+
+
+
